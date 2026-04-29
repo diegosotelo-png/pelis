@@ -15,3 +15,7 @@
 ## Relacion de Generos en Peliculas
 
 ![](./docs/peliculas.png)
+
+## Reviews
+
+![](./docs/image.png)
